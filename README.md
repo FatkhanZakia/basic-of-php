@@ -8,12 +8,8 @@
 Materials of php:
 
 ## Table of contents
-* mengubah warna tombol,
-* mengubah gambar latar belakang (background),
-* menampilkan atau menyembunyikan elemen,
-* mengambil data dari halaman web lain,
-* dan banyak lagi.
+
+1. [Basic function one](https://github.com/FatkhanZakia/basic-of-php/blob/main/01-basicfunctionone/01-basicfunctionone.md)
 
 > **Info**:
-> Javascript merupakan satu-satunya bahasa pemrograman yang dapat berjalan
-di web browser modern saat ini.
+> Happy coding :)
