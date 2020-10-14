@@ -1,12 +1,13 @@
-time | author
--|-
-2020-10-14 10:34:00 | [Fatkhan Zakia](https://github.com/FatkhanZakia)
+| time                | author                                           |
+| ------------------- | ------------------------------------------------ |
+| 2020-10-14 10:43:00 | [Fatkhan Zakia](https://github.com/FatkhanZakia) |
+
 
 # Basic of PHP
-Javascript merupakan bahasa pemrograman yang berjalan di web browser.
-Tugasnya, membuat halaman web menjadi lebih interaktif, seperti menampilkan
-pesan popup, jendela input, dan lainnya. Yang dapat dilakukan Javascript
-sangat beragam, mulai dari:
+
+Materials of php:
+
+## Table of contents
 * mengubah warna tombol,
 * mengubah gambar latar belakang (background),
 * menampilkan atau menyembunyikan elemen,
