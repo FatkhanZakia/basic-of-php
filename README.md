@@ -12,4 +12,4 @@ Materials of php:
 1. [Basic function one](https://github.com/FatkhanZakia/basic-of-php/blob/main/01-basicfunctionone/01-basicfunctionone.md)
 
 > **Info**:
-> Happy coding :)
+> Happy coding :p
